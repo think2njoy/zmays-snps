@@ -6,3 +6,4 @@ Project started 2016-03-10 -- continuing since...
 TODO: ask sequencing center about adapters
 Samples expected from sequencing core 2013-01-10
 \n\nMaize reference genome version: refgen3
+\n\nMaize reference genome version: refgen3_4
